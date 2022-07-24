@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://touhidcollection.blogspot.com](https://touhidcollection.blogspot.com)
 
-- 💬 Ask me about **WordPress,iOS,CEH**
+- 💬 Ask me about **WordPress, iOS, CEH**
 
 - 📫 How to reach me **https://appletouhid.com**
 
