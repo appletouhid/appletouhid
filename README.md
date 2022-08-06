@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Certified Ethical Hacker (EC-Council)**
 
-- 👯 I’m looking to collaborate on [Holo Life](https://www.figma.com/proto/uWOtqQALQ9hs5GLUOBcdid/Holy-Life?node-id=67%3A50&scaling=scale-down)
+- 👯 I’m looking to collaborate on [Holy Life](https://www.figma.com/proto/uWOtqQALQ9hs5GLUOBcdid/Holy-Life?node-id=67%3A50&scaling=scale-down)
 
 - 🤝 I’m looking for help with [Trust WebSite](https://sahanutrust.org)
 
