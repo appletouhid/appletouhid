@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/appletouhid" target="blank"><img src="https://img.shields.io/twitter/follow/appletouhid?logo=twitter&style=for-the-badge" alt="appletouhid" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Marketing Solation](https://www.digitalmarketingbd.com/)
+- 🔭 I’m currently working on digital marketing solution (https://www.digitalmarketingbd.com/)
 
 - 🌱 I’m currently learning **Certified Ethical Hacker (EC-Council)**
 
