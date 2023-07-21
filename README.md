@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm  Abdullah Al Touhid</h1>
-<h3 align="center">A Professional Full-Stack Web DEveloper</h3>
+<h3 align="center">Cyber Security Enthusiast | Penetration Tester | Network Support | Web Developer | apple Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appletouhid&label=Profile%20views&color=0e75b6&style=flat" alt="appletouhid" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://touhidcollection.blogspot.com](https://touhidcollection.blogspot.com)
 
-- 💬 Ask me about **iOS,CEH,Web,WordPress,Blog**
+- 💬 Ask me about **iOS, CEH,Web, WordPress,Blog**
 
 - 📫 How to reach me **https://appletouhid.com**
 
