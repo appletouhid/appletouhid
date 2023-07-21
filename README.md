@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on [Holy Life](https://www.figma.com/proto/uWOtqQALQ9hs5GLUOBcdid/Holy-Life?node-id=67%3A50&scaling=scale-down)
 
-- 🤝 I’m looking for help with [Trust WebSite](https://sahanutrust.org)
+- 🤝 I’m looking for help with [Hosting Company] https://www.dmshostingserver.com
 
 - 👨‍💻 All of my projects are available at [https://www.figma.com/proto/uWOtqQALQ9hs5GLUOBcdid/Holy-Life?node-id=67%3A50&scaling=scale-down](https://www.figma.com/proto/uWOtqQALQ9hs5GLUOBcdid/Holy-Life?node-id=67%3A50&scaling=scale-down)
 
 - 📝 I regularly write articles on [https://touhidcollection.blogspot.com](https://touhidcollection.blogspot.com)
 
-- 💬 Ask me about **iOS, CEH,Web, WordPress,Blog**
+- 💬 Ask me about **iOS, CEH, Web, WordPress, Blog**
 
 - 📫 How to reach me **https://appletouhid.com**
 
